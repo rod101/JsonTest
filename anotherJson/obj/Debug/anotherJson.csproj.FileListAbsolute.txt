@@ -1,0 +1,8 @@
+C:\LEARN_CSHARP\anotherJson\anotherJson\bin\Debug\anotherJson.exe.config
+C:\LEARN_CSHARP\anotherJson\anotherJson\bin\Debug\anotherJson.exe
+C:\LEARN_CSHARP\anotherJson\anotherJson\bin\Debug\anotherJson.pdb
+C:\LEARN_CSHARP\anotherJson\anotherJson\bin\Debug\Newtonsoft.Json.dll
+C:\LEARN_CSHARP\anotherJson\anotherJson\bin\Debug\Newtonsoft.Json.xml
+C:\LEARN_CSHARP\anotherJson\anotherJson\obj\Debug\anotherJson.csprojResolveAssemblyReference.cache
+C:\LEARN_CSHARP\anotherJson\anotherJson\obj\Debug\anotherJson.exe
+C:\LEARN_CSHARP\anotherJson\anotherJson\obj\Debug\anotherJson.pdb
